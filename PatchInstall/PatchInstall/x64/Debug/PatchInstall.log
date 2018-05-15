@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+e:\mfcproject\patchinstall\patchinstall\stdafx.cpp(9): error C2857: 在源文件中没有找到用 /Ycstdafx.h;afxinet.h 命令行选项指定的“#include”语句
